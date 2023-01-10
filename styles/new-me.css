@@ -1,0 +1,78 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Banner */
+header {
+  background-image: url(../images/banner/banner3.png);
+  position: absolute;
+  width: 1600px;
+  height: 808px;
+  left: -34px;
+  top: 0;
+}
+.nav-title {
+  margin-left: 70%;
+
+  color: #ffffff;
+  width: 604px;
+  height: 228px;
+  margin-top: 207px;
+  margin-left: 766px;
+  line-height: 76px;
+
+  text-align: right;
+  font-size: 65px;
+}
+.nav-description {
+  color: #FFFFFF;
+    font-size: 16px;
+    text-align: right;
+    padding-top:14px;
+   line-height: 26px;
+   margin-right: 226px;
+}
+
+.btn-header { width: 160px;
+  height: 64px;
+  background-color: white; 
+  color: #005FAC;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+ margin-left: 1210px;
+ margin-top: 24px;
+}
+/* main part */
+.main-section{
+  margin-left: 90px;
+ margin-top: 900px;
+ position: relative;
+ display: flex;
+ justify-content:center;
+}
+.my-photo{
+  width: 300px;
+    height: 400px;
+}
+.section-title{
+  color:#151414;
+  padding-top: 110px;
+  width: 700px;
+  font-size: 40px
+  line-height:46px;}
+  .section-description{
+    color:#444343;
+    width: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+  }
+  .tick-mark{
+  
+    list-style:circle;
+    list-style-position: inside;
+    
+}
